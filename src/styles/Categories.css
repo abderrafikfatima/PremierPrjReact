@@ -1,0 +1,20 @@
+
+.list-categories {
+	text-align: center;
+	padding-top: 30px;
+
+}
+.categories-select {
+	margin-right: 20px;
+}
+.refresh {
+	background: #31b572;
+	outline:3px;
+	border: 2px 3px solid;
+	font-weight: 600;
+	cursor: pointer;
+	align-self: self-start;
+	padding: 10px;
+	color: white;
+	
+}
